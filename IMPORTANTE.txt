@@ -1,0 +1,4 @@
+para usar o sass os pré-requisitos são:
+1 - ter o node.js instalado na maquina
+2 - no terminal (bash) do VScode digitar para instalar o sass: npm install -g sass
+3 - para vincular o sass com o css: sass scss/style.scss:css/style.css
